@@ -1,10 +1,10 @@
 {
-    "name": "ander/performance-counter-test",
+    "name": "aarquero/performance-counter-test",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Ander\\PerformanceCounterTest\\": "src/"
+            "aarquero\\PerformanceCounterTest\\": "src/"
         }
     },
     "authors": [
